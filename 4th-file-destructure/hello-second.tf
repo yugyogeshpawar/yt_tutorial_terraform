@@ -1,0 +1,3 @@
+output "secondOutputblock" {
+    value = "secondOutputblock"
+}
