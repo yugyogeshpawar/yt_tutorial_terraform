@@ -3,7 +3,7 @@
 <h1 align="center">default = "World"</h1>
 
 
-now we can see that the default value
+now we can see that the default value using the following command
 
  ```sh
     terraform plan
